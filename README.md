@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL: 
+- Solution URL: https://github.com/Amna-Iqbal/FAQ-Accordion
+- Live Site URL: https://amna-iqbal.github.io/FAQ-Accordion/
 
 ## My Process
 
